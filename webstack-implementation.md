@@ -98,11 +98,11 @@ In this step, I install a Database Management System (DBMS) to be able to store 
         #To this:
         DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
 </IfModule>**
-4. Save and close file.
+4. Save and close file. using command :wq
 5. Next, reload Apache so the changes take effect, type: **sudo systemctl reload apache2**
 6. Finally, we will create a PHP script to test that PHP is correctly installed and configured on your server. Create a new file named index.php inside the custom web root folder, run: **vim /var/www/projectlamp/index.php**
 7. This will open a blank file. Add the PHP code: 
 **<?php
 phpinfo();**
-8. Save and close the file, then refresh the page to see changes.
+8. Save and close the file,using command :wq then refresh the page to see changes.
 9. <img width="1427" alt="Screen Shot 2022-11-09 at 14 42 06" src="https://user-images.githubusercontent.com/39014215/200845678-b6e062d2-82b0-4942-b8fc-1ba4f9102182.png">
