@@ -1,5 +1,36 @@
 
 ## WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS
+
+As you kick off your career in DevOps, you will soon realise that everything you will be doing as a DevOps engineer is around 
+software, websites, applications etc.
+
+And, there are different stack of technologies that make different solutions possible. These stack of technologies are regarded as
+WEB STACKS.
+
+Examples of Web Stacks include LAMP, LEMP, MEAN, and MERN stacks. 
+
+As you proceed in your journey, you will be required to understand and implement all of these technology stacks. Lets have a short
+close up on what a Technology stack is.
+
+What is a Technology stack?
+A technology stack is a set of frameworks and tools used to develop a software product. 
+This set of frameworks and tools are very specifically chosen to work together in creating a well-functioning software. 
+They are acronymns for individual technologies used together for a specific technology product. some examples are…
+
+LAMP (Linux, Apache, MySQL, PHP or Python, or Perl)
+LEMP (Linux, Nginx, MySQL, PHP or Python, or Perl)
+MERN (MongoDB, ExpressJS, ReactJS, NodeJS)
+
+After completing this lab, you will be able to achieve the following.
+
+1. Become very confident on the Linux Terminal
+
+2. Deepen your understanding of Web Stacks and familiarity between the differences between the different Web Technology stacks
+such as LAMP, LEMP, MEAN, and MERN stacks
+3. Have Solid Linux administration skills in Storage management, NFS, troubleshooting, and basic networking.
+
+4. Basic knowledge of AWS platform and components used to host a Website of various Web stacks.
+
 ### AWS account setup and provisioning an Ubuntu Server
 #### Steps
 1. Signed up for an AWS account.
