@@ -19,7 +19,7 @@
 9. Inside the Downloads directory, I connect to my instance using its Public DNS.
 <img width="1419" alt="Screen Shot 2022-11-09 at 13 33 39" src="https://user-images.githubusercontent.com/39014215/200831496-65928b45-7045-4de4-b3db-66f81d005b81.png">
 
-### INSTALLING APACHE AND UPDATING THE FIREWALL
+### STEP 1 -INSTALLING APACHE AND UPDATING THE FIREWALL
 #### Steps
 1. Install Apache using Ubuntu’s package manager ‘apt', Run the following commands: To update a list of packages in package manager:
 **sudo apt update**
@@ -38,7 +38,7 @@
 8. Next, test that Apache HTTP server can respond to requests from the Internet. Open a browser and type the public IP of the Ubutun instance: http://54.197.194.49/:80 This outputs the Apache2 default page.
 <img width="1427" alt="Screen Shot 2022-11-09 at 13 47 24" src="https://user-images.githubusercontent.com/39014215/200834387-40fbd526-8b97-42c7-8dd5-8c1171524dcf.png">
 
-### INSTALLING MYSQL
+### STEP 2 -INSTALLING MYSQL
 #### Steps
 In this step, I install a Database Management System (DBMS) to be able to store and manage data for the site in a relational database.
 1. Run ‘apt’ to acquire and install this software, run: **sudo apt install mysql-server**
