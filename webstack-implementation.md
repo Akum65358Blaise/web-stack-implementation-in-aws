@@ -28,7 +28,7 @@ After completing this lab, you will be able to achieve the following.
 
 1. Become very confident on the Linux Terminal
 
-2. Deepen your understanding of Web Stacks and familiarity between the differences between the different Web Technology stacks
+2. Deepen your understanding of Web Stacks and familiarity with the differences between the different Web Technology stacks
 such as LAMP, LEMP, MEAN, and MERN stacks
 
 3. Have Solid Linux administration skills in Storage management, NFS, troubleshooting, and basic networking.
