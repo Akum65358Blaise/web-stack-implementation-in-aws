@@ -13,12 +13,15 @@ As you proceed in your journey, you will be required to understand and implement
 close up on what a Technology stack is.
 
 What is a Technology stack?
+
 A technology stack is a set of frameworks and tools used to develop a software product. 
 This set of frameworks and tools are very specifically chosen to work together in creating a well-functioning software. 
 They are acronymns for individual technologies used together for a specific technology product. some examples are…
 
 LAMP (Linux, Apache, MySQL, PHP or Python, or Perl)
+
 LEMP (Linux, Nginx, MySQL, PHP or Python, or Perl)
+
 MERN (MongoDB, ExpressJS, ReactJS, NodeJS)
 
 After completing this lab, you will be able to achieve the following.
@@ -27,6 +30,7 @@ After completing this lab, you will be able to achieve the following.
 
 2. Deepen your understanding of Web Stacks and familiarity between the differences between the different Web Technology stacks
 such as LAMP, LEMP, MEAN, and MERN stacks
+
 3. Have Solid Linux administration skills in Storage management, NFS, troubleshooting, and basic networking.
 
 4. Basic knowledge of AWS platform and components used to host a Website of various Web stacks.
